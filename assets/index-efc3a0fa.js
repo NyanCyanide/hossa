@@ -9603,7 +9603,7 @@ function Wd() {
         children: [
           p.jsx("p", {
             className: "dark:text-white text-5xl",
-            children: "Hobbies",
+            children: "Languages",
           }),
           p.jsxs("div", {
             className: "grid grid-flow-cols mt-4 grid-cols-1 gap-y-4 md:mr-20",
